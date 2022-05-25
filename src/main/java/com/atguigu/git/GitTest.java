@@ -14,6 +14,6 @@ public class GitTest {
         System.out.println("pull test");
          System.out.println("啊哈哈 test");
         System.out.println("这是B");
-        System.out.println("这是A");
+        System.out.println("这是A git更新");
     }
 }
